@@ -30,3 +30,8 @@ Essentially these are the main goals of the services:
 5. Members can book facility
 6. Admin can approve bookings
 7. Payments maybe (members need to pay to join. or pay for events, facilities, et cetera)
+
+Tools
+=====
+
+I will be mainly using Github to document all my process. I will keep a project specific journal in their own README.md files. For shaping requirements/product discovery, I will be using Github Issues.
