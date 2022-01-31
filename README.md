@@ -12,7 +12,7 @@ I will be working with the following stacks. Each of the stack will be used on t
 2. Next.js (Tailwind) - will consume Laravel API above
 3. Go API with JWT auth
 4. Next.js (Chakra UI) - will consume Go API above
-5. PostgreSQL server
+5. Planetscale server
 6. React Mapbox
 7. PostGIS
 
